@@ -8,18 +8,18 @@
       "type": "image/x-icon"
     },
     {
-      "src": "/icons-192.png",
+      "src": "icons-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/maskable_icon.png",
+      "src": "maskable_icon.png",
       "type": "image/png",
       "sizes": "196x196",
       "purpose": "any maskable"
     },
     {
-      "src": "/ironman.png",
+      "src": "ironman.png",
       "type": "image/png",
       "sizes": "512x512"
     }
